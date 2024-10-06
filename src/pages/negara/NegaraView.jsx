@@ -5,7 +5,7 @@ const NegaraView = ({kelolaCari, carilokasi, hasilCari, hasilFilter}) => {
     return (
         <div className='  dark:bg-black '>
         <div className="flex-col py-5">
-        <div className="pb-5 title-text">
+        <div className="pb-5 title-text ">
           <h2 className="text-3xl text-center">Negara</h2>
         </div>
         </div>

@@ -19,7 +19,7 @@ const NegaraView = ({ search, cariNegara, hasilCari, hasilFilter }) => {
   return (
     <>
      
-      <div className="flex flex-col py-12">
+      <div className="flex flex-col py-12   dark:bg-black">
         <div className="flex space-x-12 py-3">
         <div>
           <img src={data?.flag} alt="" className="rounded-xl" />

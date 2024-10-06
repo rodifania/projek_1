@@ -32,7 +32,7 @@ function App() {
   // }
 
 
-  const theme = useState('light')
+  const theme = useState ('light')
 
   return (
     <BrowserRouter>

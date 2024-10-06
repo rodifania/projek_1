@@ -18,7 +18,7 @@ const Detail = () => {
   }, []);
 
   return (
-    <div className="flex justify-around">
+    <div className="flex justify-around   dark:bg-black dark:text-white">
       <div className="flex flex-col py-10 w-[3280px]">
         <img
           src={`https://restaurant-api.dicoding.dev/images/medium/${Resto?.restaurant?.pictureId}`}
